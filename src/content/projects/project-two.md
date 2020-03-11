@@ -1,7 +1,7 @@
 ---
-type: "App Redesign"
-title: "Instagram Redesign"
-description: "Conducted research to determine how Instagram could improve their user experience, introduce new features and rebrand themselves."
-tools: "Figma Sketch InVision Flutter Swift C#" 
-image: "../../images/demo-pic.jpg"
+type: "Web App"
+title: "To.do App"
+description: "This will be where I talk about the project, the process and the outcome. This will be where I talk about the project, the process and the outcome."
+tools: HTML, CSS, SCSS, JavaScript, ReactJS
+image: "../../images/portimg4.png"
 ---

@@ -122,7 +122,7 @@ body {
 
 html body {
     height: 100vh;
-    background-color: #A5639F;
+    background: linear-gradient(rgb(134, 255, 248), rgb(148, 211, 129));
 }
 
 .terminal-container {

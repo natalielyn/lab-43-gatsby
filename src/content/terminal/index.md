@@ -2,8 +2,8 @@
 type: "Terminal"
 command1: "~/cd portfolio-site"
 command2: "~/ cat < index.html"
-name: "Morgan MacGregor" 
-description: "I’m a New York based Web Developer > with an expertise in building blazing fast, > responsive sites."
+name: "Natalie Alway" 
+description: "I’m a Bend, Oregon based Software Developer specializing in full-stack javaScript applications."
 ---
 
 > indicates new line 
